@@ -1,0 +1,2 @@
+创建环境 conda create -n <环境名称> python=<版本号> -y     |   conda create -n <环境名称> python=3.15 -c conda-forge -y
+激活环境 conda activate <环境名称> 
